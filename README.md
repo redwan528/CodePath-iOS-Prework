@@ -34,7 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+>Learned how to navigate and utilize StoryBoard's drag and drop feature on XCode for the first time after having experience with SwiftUI.
 
 ## License
 
